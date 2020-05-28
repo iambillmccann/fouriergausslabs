@@ -13,7 +13,7 @@
           max-width="700"
           width="100%"
         >
-          <base-heading title="PROMOTE YOUR BUSINESS WITH ZERO" />
+          <base-heading title="BRING IDEAS TO LIFE" />
 
           <base-body>
             Infographic hypotheses influencer user experience Long madel ture gen-z paradigm shift client partner network product seilans solve management influencer analytics leverage virality.

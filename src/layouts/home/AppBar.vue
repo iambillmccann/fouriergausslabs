@@ -70,9 +70,9 @@
       drawer: null,
       items: [
         'Home',
-        'About',
+        'Entrepreneurs',
+        'Developers',
         'Contact',
-        'Pro',
       ],
     }),
   }
