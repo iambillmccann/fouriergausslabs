@@ -9,7 +9,7 @@
     name: 'App',
     metaInfo: {
       title: 'App',
-      titleTemplate: '%s | fourier gauss',
+      titleTemplate: '%s | Zero Pro',
       htmlAttrs: { lang: 'en' },
       meta: [
         { charset: 'utf-8' },
