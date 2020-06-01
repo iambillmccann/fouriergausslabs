@@ -28,3 +28,6 @@ yarn-error.log*
 
 .release-it.json
 now.json
+
+# My specific stuff
+metals*

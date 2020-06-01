@@ -71,11 +71,25 @@ The home page has five sections. Here is the content for these ...
 
 *hero*
 
-Describe the hero content here.
+The company tag line is: Bring ideas to life
+The pitch text is ...
+
+```
+The next great app may only exist as a drawing on a cocktail napkin. Fourier Gauss Labs are the builders that will transform that sketch into a working prototype; perfect for entreprenuers who need to build technology fast. And a great place for developers looking to create something new.
+```
+
+The *discover more* button should route to the About page
+The *get started now* link should route to the Contact page
 
 *theme-features*
 
-Describe the hero content here.
+The title shall be: "Project in the Lab".
+The section descriptive text shall be ...
+
+```
+Say something
+```
+
 
 *features*
 
