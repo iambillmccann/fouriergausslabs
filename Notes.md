@@ -60,3 +60,29 @@ The sections I will keep are:
 -        'keep-in-touch',
 -        'info'
 
+### Content
+
+I will need to decide whether I will change the existing section, or whether I will clone it
+and create a new one. I am leaning toward the latter approach.
+
+**Home**
+
+The home page has five sections. Here is the content for these ...
+
+*hero*
+
+Describe the hero content here.
+
+*theme-features*
+
+Describe the hero content here.
+
+*features*
+
+Describe the hero content here.
+
+*social-media*
+
+Describe the hero content here.
+
+*info*
