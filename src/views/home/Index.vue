@@ -16,7 +16,7 @@
     mixins: [
       LoadSections([
         'hero',
-        'theme-features',
+        'labs-projects',
         'features',
         'social-media',
       ]),

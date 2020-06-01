@@ -89,11 +89,11 @@ The title shall be: "Projects in the Lab".
 The section descriptive text shall be ...
 
 ```
-Fourier Gauss was formed to provide a resource to entreprenuers and other "idea people" who don't
+Fourier Gauss was formed to provide a resource for entreprenuers and other "idea people" who don't
 have the technical skills to build their vision. Our mission is to help launch businesses by creating
 working prototypes of their creator's idea. Fourier Gauss has expertise in computer science, cloud
 architecture, machine learning, and UX design. We are committed to the principles of rapid application
-development. But Fourier Gauss Labs is more than computer programmers! We are the intersection
+development. But Fourier Gauss Labs is more than computer programmers! We are the intersection of
 technology, entreprenuership, and investment. Oh yeah, we do consulting too.
 ```
 
