@@ -63,8 +63,7 @@
       drawer: null,
       items: [
         'Home',
-        'Entrepreneurs',
-        'Developers',
+        'About',
         'Contact',
       ],
     }),

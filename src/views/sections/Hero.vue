@@ -16,9 +16,10 @@
           <base-heading title="BRING IDEAS TO LIFE" />
 
           <base-body>
-            Infographic hypotheses influencer user experience Long madel ture gen-z paradigm shift client partner network product seilans solve management influencer analytics leverage virality.
-            incubator seed round massmarket.
-            buyer agile development growth hacking business-to-consumer ecosystem
+            The next great app may only exist as a drawing on a cocktail napkin. Fourier
+            Gauss Labs are the builders that will transform that sketch into a working
+            prototype; perfect for entreprenuers who need to build technology fast. And a
+            great place for developers looking to create something new.
           </base-body>
 
           <div
