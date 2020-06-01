@@ -19,7 +19,6 @@
         'theme-features',
         'features',
         'social-media',
-        'info',
       ]),
     ],
 

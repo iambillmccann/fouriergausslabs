@@ -75,7 +75,9 @@ The company tag line is: Bring ideas to life
 The pitch text is ...
 
 ```
-The next great app may only exist as a drawing on a cocktail napkin. Fourier Gauss Labs are the builders that will transform that sketch into a working prototype; perfect for entreprenuers who need to build technology fast. And a great place for developers looking to create something new.
+The next great app may only exist as a drawing on a cocktail napkin. Fourier Gauss Labs are the builders
+that will transform that sketch into a working prototype; perfect for entreprenuers who need to build
+technology fast. And a great place for developers looking to create something new.
 ```
 
 The *discover more* button should route to the About page
@@ -97,28 +99,60 @@ technology, entreprenuership, and investment. Oh yeah, we do consulting too.
 
 List the current projects. There should be between four and six.
 
+```
 LET'S HANG
 Let's Hang is a mobile app creating to make getting together in-person easier. It shouldn't
-be hard for friends to set up a time and place to hang out. 
-
+be hard for friends to set up a time and place to hang out.
+```
+```
 ALGEBRAIC MACHINE LEARNING
 As an alternative to statistical learning, algebraic learning may offer
 advantages in combining bottom-up and top-down information, formal concept
-derivation from data and large-scale parallelization. 
-
+derivation from data and large-scale parallelization.
+```
+```
 PROJECT WATERMELON
 Nevermind the cute project name. A Broker Price Opinion is a report that is prepared by a real estate agent that details the likely selling price of a house. Watermelon computes that price.
-
+```
+```
 STEALTH PROJECTS
 Entreprenuers and start-ups are often very protective of their projects. Fourier Gauss is respectful of
 the need for confidentiality. We'd love to tell you about our cool work, but sometimes we can't.
+```
 
 *features*
 
-Describe the hero content here.
+Describe four aspects of technology here.
+
+```
+MODERN DESIGN
+We build mobile and web applications. We follow Material Design guidelines to build modern and clean
+UX quickly. 
+```
+```
+CLOUD COMPUTING
+Our team is cloud agnostic. Our products and protypes can target any of the major cloud platforms
+from Amazon, Microsoft, and Google.
+```
+```
+DATA SCIENCE
+We understand that data is at the heart of all modern apps. Our experts will build and test
+machine learning models to power our products.
+```
+```
+RAPID APPICATION DEVELOPMENT
+We are passionate believers in rapid application development through Agile methods and continuous
+delivery. Nevermind the jargon; we're fast.
+```
 
 *social-media*
 
-Describe the hero content here.
+Follow us for the latest updates, news, and technical tips from fourier gauss labs. 
+
+Remove the link (to Vuetify). It's not necessary here.
+Open a Twitter account. And tweet.
 
 *info*
+
+I think I should remove the info section, at least until I have email addresses and phone numbers
+that I want to publish.
