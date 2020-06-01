@@ -36,23 +36,23 @@
       cards: [
         {
           icon: 'mdi-keyboard-outline',
-          title: 'Trendy Design',
-          text: 'Efficiently unleash media information without cross-media value. Quickly maximize value timely deliverables schemas.',
+          title: 'Modern Design',
+          text: 'We build mobile and web applications. We follow Material Design guidelines to build modern and clean UX quickly.',
         },
         {
           icon: 'mdi-camera-outline',
-          title: 'Photography',
-          text: 'Efficiently unleash media information without cross-media value. Quickly maximize value timely deliverables schemas.',
+          title: 'Cloud Computing',
+          text: 'Our team is cloud agnostic. Our products and protypes can target any of the major cloud platforms from Amazon, Microsoft, and Google.',
         },
         {
           icon: 'mdi-pencil-outline',
-          title: 'Brand Making',
-          text: 'Efficiently unleash media information without cross-media value. Quickly maximize value timely deliverables schemas.',
+          title: 'Data Science',
+          text: 'We understand that data is at the heart of all modern apps. Our experts will build and test machine learning models to power our products.',
         },
         {
           icon: 'mdi-puzzle-outline',
-          title: '24/7 Support',
-          text: 'Efficiently unleash media information without cross-media value. Quickly maximize value timely deliverables schemas.',
+          title: 'Rapid App Development',
+          text: 'We are passionate believers in rapid application development through Agile methods and continuous delivery. Nevermind the jargon; we\'re fast.',
         },
       ],
     }),
