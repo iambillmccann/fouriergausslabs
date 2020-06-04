@@ -16,8 +16,7 @@
       LoadSections([
         'hero-alt',
         'about-our-product',
-        'theme-features',
-        'info',
+        'labs-projects',
       ]),
     ],
 
