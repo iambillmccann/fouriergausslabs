@@ -101,7 +101,7 @@ List the current projects. There should be between four and six.
 
 ```
 LET'S HANG
-Let's Hang is a mobile app creating to make getting together in-person easier. It shouldn't
+Let's Hang is a mobile app created to make getting together in-person easier. It shouldn't
 be hard for friends to set up a time and place to hang out.
 ```
 ```

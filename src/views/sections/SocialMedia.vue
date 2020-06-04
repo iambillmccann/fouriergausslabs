@@ -13,24 +13,15 @@
         color="transparent"
         title="Social Media"
       >
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi aspernatur recusandae aut repudiandae illo error obcaecati dolores voluptate, tempore.
+        Follow us for the latest updates, news, and technical tips from fourier gauss labs.
       </base-section-heading>
-
-      <a
-        class="d-inline-block mb-8"
-        href="https://vuetifyjs.com"
-        style="text-decoration: none;"
-        target="_blank"
-      >
-        https://vuetifyjs.com
-      </a>
 
       <div class="py-4" />
 
       <v-btn
         class="font-weight-bold"
         color="white"
-        href="https://twitter.com/vuetifyjs"
+        href="https://twitter.com/iambillmccann"
         light
         min-width="168"
         target="_blank"
