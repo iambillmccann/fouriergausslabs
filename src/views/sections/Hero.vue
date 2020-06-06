@@ -26,7 +26,7 @@
             :class="$vuetify.breakpoint.smAndDown ? 'flex-column align-start' : 'align-center'"
             class="d-flex flex-wrap"
           >
-            <base-btn href="/about">
+            <base-btn @click="GoTo('about')">
               Discover More
             </base-btn>
 
@@ -37,7 +37,7 @@
               class="pa-1"
               height="auto"
               text
-              href="/contact"
+              @click="GoTo('contact-us')"
             >
               Get Started Now
             </base-btn>
@@ -61,6 +61,12 @@
         const height = this.$vuetify.breakpoint.mdAndUp ? '100vh' : '50vh'
 
         return `calc(${height} - ${this.$vuetify.application.top}px)`
+      },
+    },
+
+    methods: {
+      GoTo: function (location) {
+        this.$router.push(location)
       },
     },
   }
