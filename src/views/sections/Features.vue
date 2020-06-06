@@ -35,17 +35,17 @@
     data: () => ({
       cards: [
         {
-          icon: 'mdi-keyboard-outline',
+          icon: 'mdi-set-square',
           title: 'Modern Design',
           text: 'We build mobile and web applications. We follow Material Design guidelines to build modern and clean UX quickly.',
         },
         {
-          icon: 'mdi-camera-outline',
+          icon: 'mdi-cloud-outline',
           title: 'Cloud Computing',
           text: 'Our team is cloud agnostic. Our products and protypes can target any of the major cloud platforms from Amazon, Microsoft, and Google.',
         },
         {
-          icon: 'mdi-pencil-outline',
+          icon: 'mdi-flask-empty-outline',
           title: 'Data Science',
           text: 'We understand that data is at the heart of all modern apps. Our experts will build and test machine learning models to power our products.',
         },

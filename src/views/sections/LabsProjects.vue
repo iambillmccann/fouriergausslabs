@@ -37,25 +37,31 @@
     data: () => ({
       features: [
         {
+          color: 'primary',
+          dark: true,
           title: 'Let\'s Hang',
-          icon: 'mdi-fountain-pen-tip',
+          icon: 'mdi-account-multiple',
           text: 'Let\'s Hang is a mobile app created to make getting together in-person easier. It shouldn\'t be hard for friends to set up a time and place to hang out.',
         },
         {
+          color: 'primary',
+          dark: true,
           title: 'Algebraic ML',
-          icon: 'mdi-cellphone',
+          icon: 'mdi-calculator-variant',
           text: 'As an alternative to statistical learning, algebraic learning may offer advantages in combining bottom-up and top-down information, formal concept derivation from data and large-scale parallelization.',
         },
         {
           color: 'primary',
           dark: true,
           title: 'Project Watermelon',
-          icon: 'mdi-pencil-box-outline',
+          icon: 'mdi-home-map-marker',
           text: 'Nevermind the cute project name. A Broker Price Opinion is a report that is prepared by a real estate agent that details the likely selling price of a house. Watermelon computes that price.',
         },
         {
+          color: 'primary',
+          dark: true,
           title: 'Stealth Projects',
-          icon: 'mdi-image-size-select-actual',
+          icon: 'mdi-incognito',
           text: 'Entreprenuers and start-ups are often very protective of their projects. Fourier Gauss is respectful of the need for confidentiality. We\'d love to tell you about our cool work, but sometimes we can\'t.',
         },
       ],

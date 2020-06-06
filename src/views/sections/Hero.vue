@@ -26,7 +26,7 @@
             :class="$vuetify.breakpoint.smAndDown ? 'flex-column align-start' : 'align-center'"
             class="d-flex flex-wrap"
           >
-            <base-btn>
+            <base-btn href="/about">
               Discover More
             </base-btn>
 
@@ -37,6 +37,7 @@
               class="pa-1"
               height="auto"
               text
+              href="/contact"
             >
               Get Started Now
             </base-btn>

@@ -2,7 +2,7 @@
   <base-section id="about-our-product">
     <base-section-heading
       color="grey lighten-2"
-      icon="mdi-vuetify"
+      icon="mdi-lightbulb-outline"
       title="About our Service"
     />
 
