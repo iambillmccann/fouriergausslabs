@@ -4,16 +4,20 @@
 
 #Ensure we have folders available
 
+echo Starting the entrypoint script
 if [[ ! -f /usr/share/nginx/certificates/fullchain.pem ]];then
+    echo Making the certificates folder
     mkdir -p /usr/share/nginx/certificates
 fi
 
 ### If certificates don't exist yet we must ensure we create them to start nginx
 if [[ ! -f /usr/share/nginx/certificates/fullchain.pem ]]; then
+    echo Creating the OpenSSL certificate
     openssl genrsa -out /usr/share/nginx/certificates/privkey.pem 4096
     # sl genrsa -out /usr/share/nginx/certificates/privkey.pem 4096
     openssl req -new -key /usr/share/nginx/certificates/privkey.pem -out /usr/share/nginx/certificates/cert.csr -nodes -subj \
-    "/C=PT/ST=World/L=World/O=${DOMAIN:-fouriergauss.com}/OU=ilhicas lda/CN=${DOMAIN:-fouriergauss.com}/EMAIL=${EMAIL:-fouriergauss@outlook.com}"
+    "/C=US/ST=New Jersey/L=Matawan/O=Fourier Gauss Labs/OU=IT/CN=${DOMAIN:-fouriergauss.com}/emailAddress=${EMAIL:-fouriergauss@outlook.com}"
+    echo The OpenSSL cert is done, creating the x509
     openssl x509 -req -days 365 -in /usr/share/nginx/certificates/cert.csr -signkey /usr/share/nginx/certificates/privkey.pem -out /usr/share/nginx/certificates/fullchain.pem
 fi
 
