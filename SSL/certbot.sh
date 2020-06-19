@@ -4,8 +4,8 @@ fi
 certbot certonly \
         --config-dir "${LETSENCRYPT_DIR:-/etc/letsencrypt}" \
 		--agree-tos \
-		--domains "$DOMAIN" \
-		--email "$EMAIL" \
+		--domains "${DOMAIN:-www.fouriergauss.com}" \
+		--email "${EMAIL:-bill.mccann@gmail.com}" \
 		--expand \
 		--noninteractive \
 		--webroot \
