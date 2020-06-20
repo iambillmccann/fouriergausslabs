@@ -21,7 +21,7 @@
       <v-btn
         class="font-weight-bold"
         color="white"
-        href="https://twitter.com/iambillmccann"
+        href="https://twitter.com/gausslabs"
         light
         min-width="168"
         target="_blank"
