@@ -22,3 +22,7 @@
 2020.06.16 18:14:00 INFO  time: initialize in 22s
 2020.06.16 18:14:26 WARN  no build tool detected in workspace '/mnt/e/Bill/Documents/GitHubProjects/fouriergausslabs'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 2020.06.16 20:16:28 INFO  shutting down Metals
+2020.06.22 13:18:25 INFO  started: Metals version 0.9.0 in workspace '/mnt/e/Bill/Documents/GitHubProjects/fouriergausslabs'
+2020.06.22 13:18:36 INFO  time: initialize in 10s
+2020.06.22 13:18:40 WARN  no build tool detected in workspace '/mnt/e/Bill/Documents/GitHubProjects/fouriergausslabs'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.06.22 13:19:57 INFO  shutting down Metals
